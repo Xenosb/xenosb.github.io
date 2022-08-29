@@ -1,0 +1,13 @@
+title: Bruno Vunderl
+email: me@bruno-v.dev
+github_username: xenosb
+description: >-
+  Personal website // development in progress
+
+baseurl: ""
+url: "bruno-v.dev"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
